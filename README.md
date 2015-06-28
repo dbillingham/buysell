@@ -14,4 +14,4 @@ Clone repository and run npm install.
 Type grunt into the command line.
 
 ##Live Example
-See: http://buysell.herokuapp.com.
+See: http://buysellmean.herokuapp.com.
